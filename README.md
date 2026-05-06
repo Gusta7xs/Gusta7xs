@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280px"/>
+<img align="right" src="" width="280px"/>
 
 ### ⚔️ About Me
 
