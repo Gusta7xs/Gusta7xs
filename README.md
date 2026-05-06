@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gusta7xs/Gusta7xs/48b718a6e864eeb06cd42622b1feefd67019684e/download.gif" width="400px"/>
+  <img src="https://raw.githubusercontent.com/Gusta7xs/Gusta7xs/main/download.gif" width="600px"/>
 </div>
 
 <br/>
