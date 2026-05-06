@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" src="" width="280px"/>
+<img align="right" src="https://raw.githubusercontent.com/Gusta7xs/Gusta7xs/48b718a6e864eeb06cd42622b1feefd67019684e/download.gif" width="280px"/>
 
 ### ⚔️ About Me
 
