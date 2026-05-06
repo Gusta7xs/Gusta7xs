@@ -18,9 +18,21 @@
 
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/Gusta7xs/Gusta7xs/48b718a6e864eeb06cd42622b1feefd67019684e/download.gif" width="280px"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gusta7xs/Gusta7xs/48b718a6e864eeb06cd42622b1feefd67019684e/download.gif" width="400px"/>
+</div>
+
+<br/>
 
 ### ⚔️ About Me
+
+Olá! Sou **Gusta7xs**, desenvolvedor apaixonado por criar interfaces **dark e imersivas** que combinam estética com funcionalidade.
+
+Meu foco principal é **Frontend Design** — uso HTML, CSS e JavaScript para construir experiências visuais sombrias e elegantes que prendem a atenção. Também tenho base em **C++**, o que me dá uma visão mais profunda de como as coisas funcionam por baixo dos panos.
+
+Atualmente estou explorando o universo de **IA e automação**, aprendendo a manipular e integrar modelos de inteligência artificial em projetos criativos e práticos.
+
+Acredito que tecnologia e arte andam juntas — cada linha de código pode contar uma história.
 
 ```yaml
 name      : Gusta7xs
@@ -30,8 +42,6 @@ exploring : AI manipulation & automation
 aesthetic : Dark — minimal — immersive
 mindset   : "Where art meets code"
 ```
-
-<br clear="right"/>
 
 ---
 
