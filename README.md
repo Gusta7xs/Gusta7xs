@@ -1,155 +1,140 @@
 <div align="center">
 
-<!-- Gothic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=200&section=header&text=Gusta7xs&fontSize=60&fontColor=8b5cf6&fontAlignY=35&desc=crafting%20darkness%20into%20code&descColor=6b21a8&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://github.com/Gusta7xs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Reverse+Engineer+%F0%9F%94%8D;C%2B%2B+%2F+Game+Hacking+Dev+%F0%9F%8E%AE;Frontend+Craftsman+%F0%9F%95%B8;Memory+%26+Assembly+Whisperer+%F0%9F%A7%BF" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0a2e,70:0f0a1e,100:0a0a0f&height=220&section=header&text=Gusta7xs&fontSize=65&fontColor=a78bfa&fontAlignY=38&desc=⚔️%20Frontend%20Designer%20%7C%20Developer%20%7C%20AI%20Explorer&descColor=7c3aed&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Dark divider -->
+<a href="https://github.com/Gusta7xs">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Frontend+Designer+%E2%9A%94%EF%B8%8F;C%2B%2B+Developer;AI+%26+Automation+Explorer+%F0%9F%A4%96;Crafting+dark+%26+aesthetic+interfaces+%F0%9F%96%A4" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-<div align="center">
+<br/>
 
-## ☠️ `> whoami`
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280px"/>
 
-</div>
+### ⚔️ About Me
 
-```bash
-$ cat /etc/profile/gusta7xs
-
-  NAME     : Gusta7xs
-  ROLE     : Reverse Engineer | C++ Dev | Frontend Craftsman
-  FOCUS    : Game internals, memory manipulation, IDA Pro, vtables
-  SECOND   : HTML / CSS / UI — making the dark side look good
-  OS       : Windows (for the games), Linux (for everything else)
-  STATUS   : Alive. Probably.
+```yaml
+name      : Gusta7xs
+role      : Frontend Designer & Developer
+stack     : [HTML, CSS, JavaScript, C++]
+exploring : AI manipulation & automation
+aesthetic : Dark — minimal — immersive
+mindset   : "Where art meets code"
 ```
 
----
-
-<div align="center">
-
-## 🕸️ Arsenal das Trevas
-
-</div>
-
-<div align="center">
-
-<!-- C++ -->
-<img src="https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=8b5cf6"/>
-<!-- HTML -->
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=8b5cf6"/>
-<!-- CSS -->
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=8b5cf6"/>
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=8b5cf6"/>
-<!-- IDA Pro -->
-<img src="https://img.shields.io/badge/IDA%20Pro-0d0d0d?style=for-the-badge&logo=buffer&logoColor=8b5cf6"/>
-<!-- x86 ASM -->
-<img src="https://img.shields.io/badge/x86%20Assembly-0d0d0d?style=for-the-badge&logo=assemblyscript&logoColor=8b5cf6"/>
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=8b5cf6"/>
-<!-- VS -->
-<img src="https://img.shields.io/badge/Visual%20Studio-0d0d0d?style=for-the-badge&logo=visualstudio&logoColor=8b5cf6"/>
-
-</div>
+<br clear="right"/>
 
 ---
 
+<br/>
+
+## 🛡️ Tech Stack
+
 <div align="center">
 
-## 💀 Domínios das Trevas
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" />
+
+<br/><br/>
+
+**⚙️ Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+**🤖 AI & Automation**
+
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
 
 </div>
 
-<table align="center">
+---
+
+<br/>
+
+## ⚔️ What I Do
+
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🔪 Reverse Engineering
-```
-✦ IDA Pro / x64dbg
-✦ vtable dissection
-✦ offset hunting
-✦ memory read/write
-✦ internal cheats (C++)
-✦ pattern scanning
-```
+**🎨 Frontend Design**
+
+Dark, aesthetic and immersive web experiences with attention to every pixel and animation detail.
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🕸️ Frontend Craft
-```
-✦ HTML5 / CSS3
-✦ Dark UI/UX design
-✦ Custom animations
-✦ CSS dark themes
-✦ Responsive layouts
-✦ Visual storytelling
-```
+**⚙️ C++ Knowledge**
+
+Low-level programming, memory concepts and systems thinking applied to real projects.
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI Exploration**
+
+Leveraging and manipulating AI models to build smarter, creative workflows and automation.
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 📊 Manuscritos do Abismo
+<img src="https://github-readme-stats.vercel.app/api?username=Gusta7xs&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gusta7xs&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=8b5cf6&icon_color=6b21a8&text_color=c4b5fd&ring_color=8b5cf6" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gusta7xs&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=8b5cf6&ring=6b21a8&fire=8b5cf6&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=6b21a8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gusta7xs&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6d28d9" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta7xs&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=8b5cf6&text_color=c4b5fd" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta7xs&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=c4b5fd" width="42%"/>
 
 </div>
 
 ---
 
+<br/>
+
+## 🌑 Activity
+
 <div align="center">
 
-## 🩸 Ritual de Atividade
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gusta7xs&bg_color=0d0d0d&color=8b5cf6&line=6b21a8&point=c4b5fd&area=true&area_color=1a0a2e&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gusta7xs&bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1a0a2e&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
 ---
 
+<br/>
+
 <div align="center">
 
-## 👁️ Observadores das Trevas
-
-<img src="https://komarev.com/ghpvc/?username=Gusta7xs&style=for-the-badge&color=6b21a8&label=SOULS+VISITED"/>
+<img src="https://komarev.com/ghpvc/?username=Gusta7xs&style=for-the-badge&color=7c3aed&label=Profile+Views&labelColor=0a0a0f"/>
 
 <br/><br/>
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*"The deeper you go into the memory, the closer you get to the truth."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0a2e,100:0a0a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
